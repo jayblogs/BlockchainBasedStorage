@@ -14,7 +14,7 @@ through blockchain.
 3. Learning reactjs, solidity, ethereum and smart contracts.
 ## Domain:- Blockchain
 A blockchain is a distributed database that is shared among the nodes of a computer network.
-<img src="src/ED_Blockchain.png" alt=""/>
+<img src="BlockchainBasedStorage/src/ED_Blockchain.png" alt=""/>
 
 ## Technology:- Ethereum, Solidity , Web3.js, React.js, IPFS
 ## Tools:-
@@ -24,7 +24,7 @@ A blockchain is a distributed database that is shared among the nodes of a compu
 4. MetaMask Extension: To turn normal browser to a blockchain browser
 
 ## Block Diagram
-<img src="src/ED_Diag.jpg" alt=""/>
+<img src="BlockchainBasedStorage/src/ED_Diag.jpg" alt=""/>
 
 ## Step to run the project
 1. Clone this repository.
